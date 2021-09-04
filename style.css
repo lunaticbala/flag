@@ -1,0 +1,26 @@
+body{
+    background: rgb(201, 197, 197);
+}
+.country{
+    background: white;
+    width: 230px;
+    
+    padding-right: 10px;
+   
+}
+
+.image{
+    border-radius: 5px 5px 0px 0px;
+}
+
+.row{
+    margin-left: 20px;
+    margin-top: 20px;
+    padding-top: 20px;
+    
+}
+.bold{
+    font-weight: bold;
+}
+
+
